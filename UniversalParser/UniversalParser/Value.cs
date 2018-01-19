@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace UniversalParser
 {
-    public class Class1
+    public class Value
     {
+        public Type DataType { get; }
+
     }
 }
